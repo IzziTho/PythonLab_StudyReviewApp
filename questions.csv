@@ -2,4 +2,5 @@ Question Number,Question,Correct Answer,Incorrect Answer1,Incorrect Answer2,Inco
 1,How many planets in our Solar System?,8,9,7,10,"Solar System,Planets"
 2,What is the closest planet to the Sun?,Mercury,Venus,Mars,Neptune,"Solar System,Planets,Sun"
 3,How many hours does it take the Earth to rotate once on it's axis?,24 hours,12 hours,18 hours,36 hours,"Earth,Solar System"
-4,my question,the right answer,wonrg1,wrong2,wrong3,"tag1,tag2,tag3"
+4,How long does it take for the Sun's light to reach the Earth? ,8 minutes,2 hours,30 seconds,3 days,"Sun,Earth,Solar System"
+5,What colour is Mars?,Red,Purple,Black,Blue,"Mars,Solar System"
